@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-consulting-theme"]=this["webpackJsonpreact-consulting-theme"]||[]).push([[17],{100:function(e,t,n){"use strict";n.r(t);n(1);var c=n(0);var s=()=>Object(c.jsx)("div",{id:"notFound",children:Object(c.jsx)("div",{className:"notFoundMsg",children:Object(c.jsx)("h1",{children:"Error 404 !!! Page not Found"})})});t.default=()=>Object(c.jsx)(c.Fragment,{children:Object(c.jsx)(s,{})})}}]);
+//# sourceMappingURL=17.d79354ef.chunk.js.map
