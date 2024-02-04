@@ -3,6 +3,7 @@ import { lazy } from "react"
 const Home = lazy(() => import('../pages/Home.page'));
 const About = lazy(() => import('../pages/About.page'));
 const Service = lazy(() => import('../pages/Service.page'));
+const OurClient = lazy(() => import('../pages/OurClient.page'));
 const SingleService = lazy(() => import('../pages/SingleService.page'));
 const Portfolio = lazy(() => import('../pages/Portfolio.page'));
 const SinglePortfolio = lazy(() => import('../pages/SinglePortfolio.page'));
@@ -35,6 +36,14 @@ const routes = [
         path: '/service',
         exact: true,
         component: Service,
+        authentication: false,
+        theme: "theme-1"
+    },
+    {
+        name: 'Our Clients',
+        path: '/our-client',
+        exact: true,
+        component: OurClient,
         authentication: false,
         theme: "theme-1"
     },

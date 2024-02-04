@@ -14,6 +14,12 @@ const menus = [
         
     },
     {
+        id: 7,
+        linkText: 'Our Clients',
+        link: '/our-client',
+        
+    },
+    {
         id: 2,
         linkText: 'About Us',
         link: '/about'
