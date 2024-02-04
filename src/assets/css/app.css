@@ -4077,3 +4077,34 @@ blockquote p{
 	border-radius: 5px;
 	margin-top: -6px;
 }
+
+.client-grid-logo {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    grid-row-gap: 16px;
+    grid-column-gap: 16px;
+    grid-template-rows: auto auto auto;
+    width: 100%;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.client-tab-logo {
+    padding: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #fff;
+    width: 100%;
+}
+
+.client-tabs {
+    background-color: rgba(3, 55, 146, 0.06);
+    width: 100%;
+}
+
+.tab-content {
+    width: 100%;
+}
