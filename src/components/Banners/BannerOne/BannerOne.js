@@ -15,7 +15,7 @@ const BannerOne = () => {
                         	</div> */}
                             <h1>Get Solutions</h1>
                             <p>
-                                Welcome to SWAQ IT Consultanting! We provide exceptional technology solutions to businesses and individuals worldwide.
+                                Welcome to SWAQ IT CONSULTING! We provide exceptional technology solutions to businesses and individuals worldwide.
                             </p>
 
                             <ul>
