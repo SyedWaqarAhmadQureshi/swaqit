@@ -4108,3 +4108,7 @@ blockquote p{
 .tab-content {
     width: 100%;
 }
+
+#root {
+    margin-right: -36px;
+}
