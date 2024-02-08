@@ -549,7 +549,7 @@ export const clients_list = [
         icon: 'https://assets.website-files.com/5ef224f47bfc26b19480bb6b/5fc548aae1e5802e7b76bc2f_BHP.png'
     },
     {
-        id: 65,
+        id: 66,
         title: "pseg",
         link: '#',
         category: "energy",
