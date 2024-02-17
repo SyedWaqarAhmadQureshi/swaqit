@@ -108,7 +108,7 @@ const FooterOne = () => {
                             <ul>
                                 <li><Link to="/" style={{cursor:'default'}}>info@swaqit.com</Link></li>
                                 <li><Link to="/" style={{cursor:'default'}}>+1 (646) 568-6003</Link></li>
-
+                                <li><Link to="/" style={{cursor:'default'}}>+91 194 4079733</Link></li>
                             </ul>
                         </aside>
                     </div>
