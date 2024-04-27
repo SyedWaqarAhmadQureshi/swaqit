@@ -670,13 +670,14 @@
 }
 .skill-thumb{
     position: relative;
-    text-align: right;
+    text-align: center;
     margin-left: 40px;
     padding-top: 27px;
 }
 .skill-thumb img{
-    max-width: 100%;
-    height: auto;
+    /* max-width: 100%;
+    height: auto; */
+    width: 80%
 }
 .angle-top{
     position: absolute;
