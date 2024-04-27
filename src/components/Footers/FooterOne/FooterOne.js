@@ -105,7 +105,7 @@ const FooterOne = () => {
 
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-4 col-md-6">
+                    <div className="col-lg-2 col-md-6">
                         <aside className="widget">
                             <h3 className="widget-title">US Address:</h3>
                             <ul>
