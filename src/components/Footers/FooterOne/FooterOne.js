@@ -105,16 +105,16 @@ const FooterOne = () => {
 
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-2 col-md-6">
+                    <div className="col-lg-4 col-md-6">
                         <aside className="widget">
                             <h3 className="widget-title">US Address:</h3>
                             <ul>
                                 <li><Link to="/" style={{cursor:'default'}}>
-                                <IoLocationOutline />
+                                <IoLocationOutline />&nbsp;
                                 30 N Gould St, Ste R <br/>
                                 Sheridan, WY 82801
                                 </Link></li>
-                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />+1 (646) 568-6003</Link></li>
+                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+1 (646) 568-6003</Link></li>
                             </ul>
                         </aside>
                     </div>
@@ -123,10 +123,13 @@ const FooterOne = () => {
                             <h3 className="widget-title">India Address:</h3>
                             <ul>
                             <li><Link to="/" style={{cursor:'default'}}>
-                                <IoLocationOutline />Unit No. - 111, ACY - Aggarwal City Square, Plot No. 10, District Centre Manglam Place,Sector -3, Rohini, New Delhi - 110085
+                                <IoLocationOutline />&nbsp;
+                                Unit No. - 111, Aggarwal City Square, <br/>
+                                Plot No. 10, District Centre Manglam Place,<br/>
+                                Sector -3, Rohini, New Delhi - 110085
                                  </Link></li>
                                  <li>
-                                    <Link to="/" style={{cursor:'default'}}><LuPhone />+91 194 4079733</Link></li>
+                                    <Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+91 194 4079733</Link></li>
                             </ul>
                         </aside>
                     </div>
