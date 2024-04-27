@@ -151,8 +151,12 @@ const FooterOne = () => {
                     <div className="col-lg-12">
                         <div className="copyright clearfix">
                             <ul>
-                                <li className='text-white'>Connect with CEO via &nbsp;<i/></li>
-                                <li className='text-white'>linkedin &nbsp;<a href="https://www.linkedin.com/company/swaq-it-consulting/"><i className="fa fa-linkedin"></i></a></li>
+                                <li className='text-white'>Connect with Us: &nbsp;<i/></li>
+                                <li className='text-white'><a href="https://www.linkedin.com/company/swaq-it-consulting/" target='_blank'><i className="fa fa-linkedin"></i></a></li>
+                                <li className='text-white'><a href="https://www.facebook.com/profile.php?id=61555817462707" target='_blank'><i className="fa fa-facebook-f"></i></a></li>
+                                <li className='text-white'><a href="https://x.com/SwaqIt"><i className="fa fa-twitter" target='_blank'></i></a></li>
+                                <li className='text-white'><a href="https://api.whatsapp.com/send?phone=16465686003" target='_blank'><i className="fa fa-whatsapp"></i></a></li>
+
                             </ul>
                             <p>© 2021 SWAQ IT CONSULTING </p>
                         </div>
