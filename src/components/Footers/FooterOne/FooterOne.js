@@ -5,6 +5,9 @@ import partnerTwoImage from '../../../assets/images/home/client-logo/2.png';
 import partnerThreeImage from '../../../assets/images/home/client-logo/3.png';
 import partnerFourImage from '../../../assets/images/home/client-logo/4.png';
 import partnerFiveImage from '../../../assets/images/home/client-logo/5.png';
+import { IoLocationOutline } from "react-icons/io5";
+import { LuPhone } from "react-icons/lu";
+
 
 const partners = [
     {
@@ -102,41 +105,39 @@ const FooterOne = () => {
 
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-3 col-md-6">
+                    <div className="col-lg-4 col-md-6">
                         <aside className="widget">
-                            <h3 className="widget-title">Contact</h3>
-                            <ul>
-                                <li><Link to="/" style={{cursor:'default'}}>info@swaqit.com</Link></li>
-                                <li><Link to="/" style={{cursor:'default'}}>+1 (646) 568-6003</Link></li>
-                                <li><Link to="/" style={{cursor:'default'}}>+91 194 4079733</Link></li>
-                            </ul>
-                        </aside>
-                    </div>
-                    <div className="col-lg-3 col-md-6">
-                        <aside className="widget">
-                            <h3 className="widget-title">Corporate Office</h3>
+                            <h3 className="widget-title">US Address:</h3>
                             <ul>
                                 <li><Link to="/" style={{cursor:'default'}}>
-                                Unit No. - 111, ACY - Aggarwal City Square, Plot No. 10, District Centre Manglam Place,Sector -3, Rohini, New Delhi - 110085
-                                
+                                <IoLocationOutline />&nbsp;
+                                30 N Gould St, Ste R <br/>
+                                Sheridan, WY 82801
                                 </Link></li>
+                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+1 (646) 568-6003</Link></li>
                             </ul>
                         </aside>
                     </div>
-                    <div className="col-lg-3 col-md-6">
+                    <div className="col-lg-4 col-md-6">
                         <aside className="widget">
-                            <h3 className="widget-title">Branch Office</h3>
+                            <h3 className="widget-title">India Address:</h3>
                             <ul>
                             <li><Link to="/" style={{cursor:'default'}}>
-                                 Branch Address: Ho No.14, Lane No.4, Bilal Colony Abu Bakar Lane 1, Zakura, Srinagar, J&K - 190006.
+                                <IoLocationOutline />&nbsp;
+                                Unit No. - 111, Aggarwal City Square, <br/>
+                                Plot No. 10, District Centre Manglam Place,<br/>
+                                Sector -3, Rohini, New Delhi - 110085
                                  </Link></li>
+                                 <li>
+                                    <Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+91 194 4079733</Link></li>
                             </ul>
                         </aside>
                     </div>
-                    <div className="col-lg-3 col-md-6">
+                    <div className="col-lg-4 col-md-6">
                         <aside className="widget">
-                            <h3 className="widget-title">Support</h3>
+                            <h3 className="widget-title">Write Us:</h3>
                             <ul>
+                            <li><Link to="/" style={{cursor:'default'}}>info@swaqit.com</Link></li>
                                 <li><Link style={{cursor:'default'}} to="/">support@swaqit.com</Link></li>
                             </ul>
                         </aside>
@@ -151,9 +152,9 @@ const FooterOne = () => {
                         <div className="copyright clearfix">
                             <ul>
                                 <li className='text-white'>Connect with CEO via &nbsp;<i/></li>
-                                <li className='text-white'>linkedin &nbsp;<a href="https://www.linkedin.com/in/syed-waqar-ahmad-qureshi-79620729/"><i className="fa fa-linkedin"></i></a></li>
+                                <li className='text-white'>linkedin &nbsp;<a href="https://www.linkedin.com/company/swaq-it-consulting/"><i className="fa fa-linkedin"></i></a></li>
                             </ul>
-                            <p>© 2023 SWAQ IT Consulting </p>
+                            <p>© 2021 SWAQ IT CONSULTING </p>
                         </div>
                     </div>
                 </div>

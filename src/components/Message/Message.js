@@ -1,5 +1,5 @@
 import React from 'react'
-import whitebg from '../../assets/images/home/w1editedwhite.png'
+import whitebg from '../../assets/images/home/author-New.jpeg'
 function Message() {
   return (
     <>
@@ -20,7 +20,7 @@ function Message() {
                             Syed Waqar Ahmad Qureshi  
 	                        </h3>
 							<hr/>
-                            <p className="sec-desc text-justify" style={{marginBottom:'20px'}}> With over 15 years
+                            <p className="sec-desc text-justify" style={{marginBottom:'20px'}}> With over 20 years
 							  of experience in the computer networking field, Syed holds a Master of
 							   Science in Information Technology & Management and has multiple 
 							   certifications. As a CCIE, he has extensive experience in IT
