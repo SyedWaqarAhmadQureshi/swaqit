@@ -107,7 +107,7 @@ const FooterOne = () => {
                 <div className="row">
                     <div className="col-lg-4 col-md-6">
                         <aside className="widget">
-                            <h3 className="widget-title">US Address:</h3>
+                            <h3 className="widget-title">Business Address:</h3>
                             <ul>
                                 <li><Link to="/" style={{cursor:'default'}}>
                                 <IoLocationOutline />&nbsp;
