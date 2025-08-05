@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const services = [
     {
         id: 1,
-        title: "Networking",
+        title: "Internetworking",
         link: '#',
         description: 'Contact SWAQ IT to learn how our expertise provides secure and scalable IP networks built on the most sophisticated networking infrastructure in the world.',
         icon: 'fa-plus'
