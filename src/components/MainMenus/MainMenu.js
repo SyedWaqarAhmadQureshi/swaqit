@@ -43,12 +43,17 @@ const menus = [
             {
                 id: 16,
                 link: '/',
-                linkText: '+1 (646) 568-6003'
+                linkText: '+1 (917) 993-9728'
             },
             {
                 id: 17,
                 link: '/',
-                linkText: '+91 194 4079733'
+                linkText: '+91 194 407 9733'
+            },
+            {
+                id: 18,
+                link: '/',
+                linkText: '+91 70065 69574'
             },
         ]
     },

@@ -114,7 +114,7 @@ const FooterOne = () => {
                                 30 N Gould St, Ste R <br/>
                                 Sheridan, WY 82801
                                 </Link></li>
-                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+1 (646) 568-6003</Link></li>
+                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+1 (917) 993-9728</Link></li>
                             </ul>
                         </aside>
                     </div>
@@ -129,7 +129,8 @@ const FooterOne = () => {
                                 Sector -3, Rohini, New Delhi - 110085
                                  </Link></li>
                                  <li>
-                                    <Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+91 194 4079733</Link></li>
+                                    <Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+91 194 407 9733</Link></li>
+                                <li><Link to="/" style={{cursor:'default'}}><LuPhone />&nbsp;+91 70065 69574</Link></li>
                             </ul>
                         </aside>
                     </div>
